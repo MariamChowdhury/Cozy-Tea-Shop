@@ -1,0 +1,18 @@
+.links{
+  color:black;
+  padding: 20px;
+  font-weight: bold;
+}
+.links:hover{
+  text-decoration: none;
+  color: black;
+}
+.link-white{
+  color:white;
+  padding: 20px;
+  font-weight: bold;
+}
+.link-white:hover{
+  text-decoration: none;
+  color: white;
+}
